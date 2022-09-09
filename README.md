@@ -1,9 +1,8 @@
-### Hi there 👋
+# Hi there # Hi, I'm Ashish! 👋
 
 <!--
 **ashishlotake/ashishlotake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://github-readme-stats.vercel.app/api?username=ashishlotake&show_icons=true&hide_title=true)
 
 Here are some ideas to get you started:
 
@@ -16,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api?username=ashishlotake&show_icons=true&hide_title=true)
